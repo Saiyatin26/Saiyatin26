@@ -31,16 +31,6 @@
 
 ---
 
-## 🏅 Highlights
-
-- 🔬 Samsung PRISM R&D Internship
-- 📜 Published Patent Application
-- 💻 AI & Software Development Projects
-- 🥉 Secured 3rd Rank in the University (Semester 1)
-- 🧩 Active Problem Solving on LeetCode
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/saiyatin-chitluri/
